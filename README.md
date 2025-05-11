@@ -41,8 +41,8 @@
 
 ### 🧠 Currently Learning
 
-- Next.js
 - AI/ML learner
+- 
 - Docker & Deployment  
 - Competitive Programming  
 - Cloud (AWS & GCP)
