@@ -1,21 +1,3 @@
-
-
-# Hi, I'm Shreesh 👋
-
-🚀 Exploring the world through tech  
-💻 Full Stack Dev | 🚀 Futurist | 🌍 Explorer  
-
----
-
-## 🛠 Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,git,github,python,linux,vscode" />
-</p>
-
----
-
-
-
 # Hi, I'm Shreesh 👋  
 🌍 Exploring the world through tech  
 💻 Full Stack Developer | 🚀 Futurist | 🧠 Curious Learner
