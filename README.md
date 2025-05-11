@@ -10,7 +10,7 @@
 
 ### 🛠 Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,tensorflow,openCv,react,nextjs,nodejs,express,mongodb,python,java,html,css,linux,git,github,vscode,figma,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,OpenCv,SQL,python,react,nodejs,express,js,mongodb,java,html,css,linux,git,github,vscode,figma,aws,docker" />
 </p>
 
 ---
