@@ -1,3 +1,6 @@
+<img src="banner.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+
+
 # Hi, I'm Shreesh 👋  
 🌍 Exploring the world through tech  
 💻 Full Stack Developer | 🚀 Futurist | 🧠 Curious Learner
