@@ -1,4 +1,4 @@
-<img src="" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+
 
 # Hi, I'm Shreesh 👋
 
