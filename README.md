@@ -1,4 +1,5 @@
-<img src="A_digital_illustration_in_neon_and_futuristic_styl.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+<img src="banner.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+
 
 # Hi, I'm Shreesh 👋  
 🌍 Exploring the world through tech  
