@@ -11,7 +11,7 @@
 ### 🛠 Tech Stack & Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=tensorflow,opencv,mysql,python,pytorch,react,nodejs,js,mongodb,java,html,css,git,github,vscode,figma,aws,linux" />
+     <img src="https://skillicons.dev/icons?i=tensorflow,opencv,mysql,python,pytorch,react,nodejs,js,java,html,css,git,github,figma,aws,linux" />
   </a>
 </p>
 
