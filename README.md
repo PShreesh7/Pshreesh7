@@ -6,7 +6,8 @@
  
 🚀 I'm a developer who turns coffee into code.  
 🔭 Exploring the world, one project at a time.
-I'm a Computer Science student passionate about software development, Machine Learning, data analysis, and exploring various technologies.
+-I'm a Computer Science student passionate about software development, Machine Learning, data analysis, and exploring various technologies.
+
 
 🌍 Exploring the world through tech  
 💻 Full Stack Developer | 🚀 AI/ML Intermediate | 🧠 Curious Learner | 💬 Ask me about training models
@@ -63,4 +64,4 @@ I'm a Computer Science student passionate about software development, Machine Le
 [![LinkedIn](https://img.shields.io/badge/Instagram-Connect-pink?style=flat&logo=Instagram)](https://www.instagram.com/whois5hreeshh/profilecard/?igsh=MWJ6aTBiamNoOHV4bQ==)
 
 ## 👁️ Visitors
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.PShreesh7)
