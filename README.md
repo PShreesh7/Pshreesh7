@@ -14,12 +14,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Shreesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PShreesh7&show_icons=true&theme=radical)
-
----
-" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
 
 
 # Hi, I'm Shreesh 👋  
