@@ -1,4 +1,5 @@
-<img src="banner.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+  <img src="https://github.com/PShreesh7/image-hosting.git" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+  
 
 
 # Hi, I'm Shreesh 👋  
