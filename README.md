@@ -2,7 +2,10 @@
   
 
 
-# Hi, I'm Shreesh 👋  
+# Hi, I'm Shreesh 👋
+I'm a Computer Science student passionate about software development, Machine Learning, data analysis, and exploring various technologies. 
+I love turning complex problems into elegant solutions and constantly seek to expand my skill set.
+
 🌍 Exploring the world through tech  
 💻 Full Stack Developer | 🚀 Futurist | 🧠 Curious Learner
 
@@ -39,17 +42,20 @@
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 My Learning
 
-- AI/ML learner
-- 
-- Docker & Deployment  
-- Competitive Programming  
-- Cloud (AWS & GCP)
+Front-end: React, HTML, CSS, JavaScript
+Back-end: Node.js, Express.js
+Database: MongoDB, MySQL
+Version Control: Git, GitHub
+Other Languages: Python,Java,C,Kotlin
+Model Training: TensorFlow,openCV,scikit-Learn
+Data Analysis: pandas, NumPy, Matplotlib, Jupyter
 
 ---
 
 ### 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreesh-pandey-556109249/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=firefox)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/Instagram-Connect-pink?style=flat&logo=Instagram)](https://www.instagram.com/whois5hreeshh/profilecard/?igsh=MWJ6aTBiamNoOHV4bQ==)
