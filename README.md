@@ -14,7 +14,7 @@ I love turning complex problems into elegant solutions and constantly seek to ex
 ### 🛠 Tech Stack & Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=tensorflow,opencv,mysql,python,pytorch,react,nodejs,js,java,html,css,git,github,figma,aws,linux" />
+     <img src="https://skillicons.dev/icons?i=tensorflow,opencv,mysql,python,pytorch,react,nodejs,js,java,html,css,git,github,aws,linux" />
   </a>
 </p>
 
@@ -44,13 +44,13 @@ I love turning complex problems into elegant solutions and constantly seek to ex
 
 ### 🧠 My Learning
 
-Front-end: React, HTML, CSS, JavaScript
-Back-end: Node.js, Express.js
-Database: MongoDB, MySQL
-Version Control: Git, GitHub
-Other Languages: Python,Java,C,Kotlin
-Model Training: TensorFlow,openCV,scikit-Learn
-Data Analysis: pandas, NumPy, Matplotlib, Jupyter
+-- Front-end: React, HTML, CSS, JavaScript
+-- Back-end: Node.js, Express.js
+-- Database: MongoDB, MySQL
+-- Version Control: Git, GitHub
+-- Other Languages: Python,Java,C,Kotlin
+-- Model Training: TensorFlow,openCV,scikit-Learn
+-- Data Analysis: pandas, NumPy, Matplotlib, Jupyter
 
 ---
 
