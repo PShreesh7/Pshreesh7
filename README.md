@@ -6,7 +6,7 @@
  
 🚀 I'm a developer who turns coffee into code.  
 🔭 Exploring the world, one project at a time.
--I'm a Computer Science student passionate about software development, Machine Learning, data analysis, and exploring various technologies.
+- I'm a Computer Science student passionate about software development, Machine Learning, data analysis, and exploring various technologies. 
 
 
 🌍 Exploring the world through tech  
