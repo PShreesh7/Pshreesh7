@@ -1,16 +1,50 @@
-## Hi there 👋
+<img src="A_digital_illustration_in_neon_and_futuristic_styl.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
 
-<!--
-**PShreesh7/Pshreesh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shreesh 👋  
+🌍 Exploring the world through tech  
+💻 Full Stack Developer | 🚀 Futurist | 🧠 Curious Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,java,html,css,linux,git,github,vscode,figma,aws,docker" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PShreesh7&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=PShreesh7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PShreesh7&theme=react-dark" />
+</p>
+
+---
+
+### 🔥 Fun Developer Badges
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PShreesh7&label=Visitors&color=brightgreen" alt="visitors"/>
+  <img src="https://img.shields.io/badge/Focus-Creating%20Awesome%20Stuff-blueviolet?style=flat-square"/>
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+- Next.js  
+- Docker & Deployment  
+- Competitive Programming  
+- Cloud (AWS & GCP)
+
+---
+
+### 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=firefox)](https://your-portfolio-link.com)
