@@ -1,4 +1,4 @@
-  <img src="https://github.com/PShreesh7/image-hosting.git" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+  <img src="https://github.com/PShreesh7/image-hosting/blob/main/ChatGPT%20Image%20May%2011%2C%202025%2C%2009_20_00%20PM.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
   
 
 
