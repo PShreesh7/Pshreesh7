@@ -1,8 +1,7 @@
-  <img src="https://github.com/PShreesh7/image-hosting/blob/main/ChatGPT%20Image%20May%2011%2C%202025%2C%2009_20_00%20PM.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
-  
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Shreesh 
- 
+  
+  <img src="https://github.com/PShreesh7/image-hosting/blob/main/ChatGPT%20Image%20May%2011%2C%202025%2C%2009_20_00%20PM.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+   
 🚀 I'm a developer who turns tea👁️ into code.  
 🔭 Exploring the world, one project at a time.
 - I'm a Computer Science student passionate about software development, Machine Learning, data analysis, and exploring various technologies. 
