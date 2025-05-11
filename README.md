@@ -1,4 +1,25 @@
-<img src="banner.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+<img src="A_digital_illustration_in_neon_and_futuristic_styl.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+
+# Hi, I'm Shreesh 👋
+
+🚀 Exploring the world through tech  
+💻 Full Stack Dev | 🚀 Futurist | 🌍 Explorer  
+
+---
+
+## 🛠 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,git,github,python,linux,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![Shreesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PShreesh7&show_icons=true&theme=radical)
+
+---
+" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
 
 
 # Hi, I'm Shreesh 👋  
