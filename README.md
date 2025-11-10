@@ -58,7 +58,7 @@
 ### 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreesh-pandey-556109249/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=firefox)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=firefox)]([https://your-portfolio-link.com](http://shreeshhdev.netlify.app/))
 [![LinkedIn](https://img.shields.io/badge/Instagram-Connect-pink?style=flat&logo=Instagram)](https://www.instagram.com/whois5hreeshh/profilecard/?igsh=MWJ6aTBiamNoOHV4bQ==)
 
 ## 👁️ Visitors
