@@ -1,6 +1,12 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Shreesh 
   
   <img src="https://github.com/PShreesh7/image-hosting/blob/main/ChatGPT%20Image%20May%2011%2C%202025%2C%2009_20_00%20PM.png" alt="Shreesh Banner" style="width:100%; border-radius: 10px;" />
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
    
 🚀 I'm a developer who turns tea👁️ into code.  
 🔭 Exploring the world, one project at a time.
