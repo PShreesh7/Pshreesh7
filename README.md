@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
    
 🚀 I'm a developer who turns tea👁️ into code.  
 🔭 Exploring the world, one project at a time.
