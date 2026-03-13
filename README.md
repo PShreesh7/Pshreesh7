@@ -15,7 +15,7 @@
 
 
 🌍 Exploring the world through tech  
-💻 Full Stack Developer | 🚀 AI/ML Intermediate | 🧠 Curious Learner | 💬 Ask me about training models
+💻 AI/ML Developer | 🚀 Full Stack Enthusiast | 🧠 Curious Learner | 💬 Ask me about training models
 
 ---
 
